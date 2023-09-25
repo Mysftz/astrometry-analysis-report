@@ -62,7 +62,7 @@ LaTeX Report: https://github.com/Mysftz/astrometry-analysis-report
 <!-- USAGE -->
 ## Usage
 
-This report was submitted for the degree of a Masters of Science in Computer Science (Artificial Intelligence) at the University of Kent in February 2020.
+This report was submitted for the degree of a Bachelors of Science in Astronomy, Space Science and Astrophysics at the University of Kent in February 2020.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
